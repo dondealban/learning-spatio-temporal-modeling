@@ -1,2 +1,2 @@
-# learning-spatio-temporal-modeling
-Learning Spatio-Temporal Statistics with R
+# Learning Spatio-Temporal Statistics with R
+This is my repository for documenting and storing files while learning the Spatio-Temporal Statistics with R book by [Wikle et al. 2019](https://spacetimewithr.org/book). For more information about the book, please head over to the [website](https://spacetimewithr.org/index) and its accompanying GitHub [repository](https://github.com/andrewzm/STRbook).
